@@ -19,14 +19,15 @@ Each of the digits 1-9 must occur exactly once in each column.
 Each of the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of the grid.
 The '.' character indicates empty cells.
 
-Example 1:
-![image](https://user-images.githubusercontent.com/90469613/195142932-9c191f98-f356-4253-ac21-c11d3005a086.png)
+- Example 1:
+- 
+![image](https://user-images.githubusercontent.com/90469613/195144158-e598bc49-82d3-4dac-aba3-aaccbbc8b7a0.png)
 
 - Input: board = [["5","3",".",".","7",".",".",".","."],["6",".",".","1","9","5",".",".","."],[".","9","8",".",".",".",".","6","."],["8",".",".",".","6",".",".",".","3"],["4",".",".","8",".","3",".",".","1"],["7",".",".",".","2",".",".",".","6"],[".","6",".",".",".",".","2","8","."],[".",".",".","4","1","9",".",".","5"],[".",".",".",".","8",".",".","7","9"]]
 - Output: [["5","3","4","6","7","8","9","1","2"],["6","7","2","1","9","5","3","4","8"],["1","9","8","3","4","2","5","6","7"],["8","5","9","7","6","1","4","2","3"],["4","2","6","8","5","3","7","9","1"],["7","1","3","9","2","4","8","5","6"],["9","6","1","5","3","7","2","8","4"],["2","8","7","4","1","9","6","3","5"],["3","4","5","2","8","6","1","7","9"]]
 - Explanation: The input board is shown above and the only valid solution is shown below:
 
-![image](https://user-images.githubusercontent.com/90469613/195143245-ce35b80b-933d-435b-a613-4af966a976ac.png)
+![image](https://user-images.githubusercontent.com/90469613/195144234-fb8622cc-6b00-4e1f-beff-6d061e8e3196.png)
 
 ## *****Constraints:*****
 
