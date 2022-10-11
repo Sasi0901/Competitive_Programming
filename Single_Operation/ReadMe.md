@@ -15,7 +15,14 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 
 Chef has the binary representation SS of a number XX with him. He can modify the number by applying the following operation exactly once:
 
-Make X := X \oplus \lfloor \frac{X}{2^{Y}} \rfloorX:=X⊕⌊ 2 YX⌋, where (1 \leq Y \leq |S|)(1≤Y≤∣S∣) and \oplus⊕ denotes the bitwise XOR operation.
+Make X := X \oplus \lfloor \frac{X}{2^{Y}} \rfloorX:=X⊕⌊frac{X}{2^{Y}}⌋, where (1 \leq Y \leq |S|)(1≤Y≤∣S∣) and \oplus⊕ denotes the bitwise XOR operation.
+Make X := X \oplus \lfloor \frac{X}{2^{Y}} \rfloorX:=X⊕⌊ 
+2 
+Y
+ 
+X
+​
+ ⌋, where (1 \leq Y \leq |S|)(1≤Y≤∣S∣) and \oplus⊕ denotes the bitwise XOR operation.
 Chef wants to minimize the value of XX after performing the operation. Help Chef in determining the value of YY which will minimize the value of XX after the operation.
 
 ## *****How to contribute?*****
